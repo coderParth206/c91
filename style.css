@@ -1,0 +1,21 @@
+.body_background{
+    background-color:red;
+    }
+    .player1div
+        {
+            background: white;
+            padding: 10px;
+            float: none;
+            border-radius: 15px;
+        width:300;
+        }
+    .player2div
+        {
+            background: white;
+            padding: 10px;
+            float: none;
+            border-radius: 15px;
+        width:300;
+        }
+        
+    
